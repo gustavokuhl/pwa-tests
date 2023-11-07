@@ -1,0 +1,1 @@
+console.log("I turned myself in a Service Worker, Morty! BOOOOM!!! Big review, I'm a Service Worker!")
